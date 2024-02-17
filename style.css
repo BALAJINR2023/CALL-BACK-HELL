@@ -1,0 +1,33 @@
+.timerdisplay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua  !important;
+    border-radius: 20px !important;
+}
+img{
+    width:500px;
+    height:300px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.card-text{
+    background-image: linear-gradient(to left, rgb(108, 7, 108), rgb(114, 14, 184), rgb(31, 138, 152), rgb(122, 122, 211), yellow, orange, red);
+    background-clip: text;
+    color: transparent;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+h5{
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: bisque;
+    font-size: 70px !important;
+    padding:20px;
+}
